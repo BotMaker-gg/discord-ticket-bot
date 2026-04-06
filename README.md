@@ -4,6 +4,10 @@ A free, open-source Discord ticket bot with button panels, automatic ticket chan
 
 Built with [BotMaker.gg](https://botmaker.gg) - the AI-powered Discord bot builder.
 
+## Try It Live
+
+Join the [demo server](https://discord.gg/PgSvVbgtsM) to see the ticket bot in action before installing.
+
 ## Features
 
 - **Button-based ticket panels** - No reactions needed. Users click a button to open a ticket
@@ -133,6 +137,7 @@ MIT License - use it however you want.
 
 ## Links
 
+- [Demo Server](https://discord.gg/PgSvVbgtsM) - Try the bot live
 - [BotMaker.gg](https://botmaker.gg) - AI-powered Discord bot builder
 - [Clone this bot](https://botmaker.gg/bots) - One-click deploy, no coding required
 - [Discord.js Guide](https://discordjs.guide/) - Learn Discord bot development
